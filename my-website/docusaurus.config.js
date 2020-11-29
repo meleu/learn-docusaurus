@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'My Documentation Website',
+  tagline: 'The tagline of my documentation site',
+  url: 'https://meleu.github.io/',
+  baseUrl: '/learn-docusaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'meleu', // Usually your GitHub org/user name.
+  projectName: 'learn-docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
